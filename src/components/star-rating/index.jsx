@@ -3,7 +3,7 @@ import {useState} from "react";
 
 export default function StarRating({noOfStar=5}){
 
-    const [onMouseHover, setOnMouseHover]=useState(1);
+    const [onMouseHover, setOnMouseHover]=useState(0);
 
 
     return (
