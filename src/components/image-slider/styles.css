@@ -46,3 +46,10 @@
   margin: 0 0.2rem;
   cursor: pointer;
 }
+
+.hide-current-image {
+  display: none;
+}
+.inactive-indicator {
+  background-color: gray;
+}
